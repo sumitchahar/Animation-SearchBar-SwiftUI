@@ -1,0 +1,50 @@
+
+ [
+   {
+       "item_id" : 1,
+       "img" : "Bg_image_One",
+       "title" : "Goombay Punch",
+       "describtions" : "Looking for a cool brand name for your new business? You’ve come to the right place"
+   }, {
+       "item_id" : 2,
+       "img" : "img_Two",
+       "title" : "Hula Hoops",
+       "describtions" : "Here’s our full brand name list, broken down by industry. Feel free to browse through the full list, or click on your own industry to jump to it."
+   },
+{
+    "item_id" : 3,
+    "img" : "img_Three",
+    "title" : "Kambly",
+    "describtions" : "Looking for a cool brand name for your new business? You’ve come to the right place"
+},{
+    "item_id" : 4,
+    "img" : "img_Two",
+    "title" : "Loacker",
+    "describtions" : "Here’s our full brand name list, broken down by industry. Feel free to browse through the full list, or click on your own industry to jump to it."
+},{
+    "item_id" : 5,
+    "img" : "img_Three",
+    "title" : "Peek Freans",
+    "describtions" : "It has easy-to-follow worksheets that will help you get creative, and come up with a catchy name for your new company."
+},{
+    "item_id" : 6,
+    "img" : "img_Two",
+    "title" : "Tiny Teddy",
+    "describtions" : "Looking for a cool brand name for your new business? You’ve come to the right place"
+},{
+    "item_id" : 7,
+    "img" : "img_Three",
+    "title" : "Quadratini",
+    "describtions" : "Here’s our full brand name list, broken down by industry. Feel free to browse through the full list, or click on your own industry to jump to it."
+},{
+    "item_id" : 8,
+    "img" : "Bg_image_One",
+    "title" : "Commercial",
+    "describtions" : "It has easy-to-follow worksheets that will help you get creative, and come up with a catchy name for your new company."
+  },{
+      "item_id" : 9,
+      "img" : "img_Three",
+      "title" : "LoackerCustom",
+      "describtions" : "It has easy-to-follow worksheets that will help you get creative, and come up with a catchy name for your new company."
+  }
+]
